@@ -1,4 +1,4 @@
 # UDACITY-FEND
-A repository for the projects that I will do during my Udacity Front-End Development Nanodegree (2018).
+A repository for the projects that I have done/will do during my Udacity Front-End Development Nanodegree (2018).
 
-More to be added gradually.
+* Project 1: <a herf="https://github.com/dimikara/nanodegree-project1-animal-trade-card" target="_blank">Animal Trade Card</a>
