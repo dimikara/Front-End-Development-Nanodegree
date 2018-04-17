@@ -7,4 +7,4 @@ You can also see it directly in <a href="https://codepen.io/dimitraK/full/rprEzy
 
 * Project 2: <a href="https://dimikara.github.io/My-Portfolio/" target="_blank">My Portfolio</a>
 
-GitHub repository: https://github.com/dimikara/My-Portfolio
+GitHub repository: <a href="https://github.com/dimikara/My-Portfolio" target="_blank">https://github.com/dimikara/My-Portfolio</a>
