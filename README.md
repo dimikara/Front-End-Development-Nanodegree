@@ -3,7 +3,7 @@ A repository for the projects that I have done/will do during my Udacity Front-E
 
 * Project 1: <a href="https://codepen.io/dimitraK/full/rprEzy/" target="_blank">Animal Trade Card</a>
 
-GitHub repository: <a href="https://github.com/dimikara/nanodegree-project1-animal-trade-card" target="_blank">https://github.com/dimikara/My-Portfolio</a>
+GitHub repository: <a href="https://github.com/dimikara/nanodegree-project1-animal-trade-card" target="_blank">https://github.com/dimikara/nanodegree-project1-animal-trade-card</a>
 
 * Project 2: <a href="https://dimikara.github.io/My-Portfolio/" target="_blank">My Portfolio</a>
 
