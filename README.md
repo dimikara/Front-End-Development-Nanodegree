@@ -8,3 +8,7 @@ GitHub repository: <a href="https://github.com/dimikara/nanodegree-project1-anim
 * Project 2: <a href="https://dimikara.github.io/My-Portfolio/" target="_blank">My Portfolio</a>
 
 GitHub repository: <a href="https://github.com/dimikara/My-Portfolio" target="_blank">https://github.com/dimikara/My-Portfolio</a>
+
+* Project 3: <a href="https://dimikara.github.io/A-Memory-Game/" target="_blank">Memory Game</a>
+
+GitHub repository: <a href="https://github.com/dimikara/A-Memory-Game" target="_blank">https://github.com/dimikara/A-Memory-Game</a>
