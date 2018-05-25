@@ -1,4 +1,4 @@
-# UDACITY-FEND
+# Front-End Development Nanodegree (Udacity, 2018)
 A repository for the projects that I have done/will do during my Udacity Front-End Development Nanodegree (full Google Scholarship 2018).
 
 * Project 1: <a href="https://codepen.io/dimitraK/full/rprEzy/" target="_blank">Animal Trade Card</a>
