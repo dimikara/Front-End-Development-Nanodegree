@@ -25,3 +25,12 @@ GitHub repository: <a href="https://github.com/dimikara/Memory-Game" target="_bl
 ![Screenshot4](/img/ScreenshotGalaxyS.png "The game on mobile")
 
 ___
+
+
+* Project 5: Feed Reader Testing
+
+GitHub repository: <a href="https://github.com/dimikara/frontend-nanodegree-feedreader" target="_blank">https://github.com/dimikara/frontend-nanodegree-feedreader</a>
+
+![Screenshot4](/img/Check_pass.png "All checks passed")
+
+___
