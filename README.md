@@ -1,7 +1,7 @@
 # Front-End Development Nanodegree (Udacity, 2018)
 A repository for the projects that I have done/will do during my Udacity Front-End Development Nanodegree (full Google Scholarship 2018).
 
-* Project 1: <a href="https://codepen.io/dimitraK/full/rprEzy/" target="_blank">Animal Trade Card</a>
+* **Project 1:** <a href="https://codepen.io/dimitraK/full/rprEzy/" target="_blank">Animal Trade Card</a>
 
 GitHub repository: <a href="https://github.com/dimikara/nanodegree-project1-animal-trade-card" target="_blank">https://github.com/dimikara/nanodegree-project1-animal-trade-card</a>
 
@@ -9,7 +9,7 @@ GitHub repository: <a href="https://github.com/dimikara/nanodegree-project1-anim
 
 ___
 
-* Project 2: <a href="https://dimikara.github.io/My-Portfolio/" target="_blank">My Portfolio</a>
+* **Project 2:** <a href="https://dimikara.github.io/My-Portfolio/" target="_blank">My Portfolio</a>
 
 GitHub repository: <a href="https://github.com/dimikara/My-Portfolio" target="_blank">https://github.com/dimikara/My-Portfolio</a>
 
@@ -18,7 +18,7 @@ GitHub repository: <a href="https://github.com/dimikara/My-Portfolio" target="_b
 
 ___
 
-* Project 3: <a href="https://dimikara.github.io/Memory-Game/" target="_blank">Memory Game</a>
+* **Project 3:** <a href="https://dimikara.github.io/Memory-Game/" target="_blank">Memory Game</a>
 
 GitHub repository: <a href="https://github.com/dimikara/Memory-Game" target="_blank">https://github.com/dimikara/Memory-Game</a>
 
@@ -27,7 +27,7 @@ GitHub repository: <a href="https://github.com/dimikara/Memory-Game" target="_bl
 ___
 
 
-* Project 5: Feed Reader Testing
+* **Project 5:** Feed Reader Testing
 
 An exercise on writing tests with Jasmine framework.
 
