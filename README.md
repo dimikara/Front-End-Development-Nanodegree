@@ -29,6 +29,8 @@ ___
 
 * Project 5: Feed Reader Testing
 
+An exercise on writing tests with Jasmine framework.
+
 GitHub repository: <a href="https://github.com/dimikara/frontend-nanodegree-feedreader" target="_blank">https://github.com/dimikara/frontend-nanodegree-feedreader</a>
 
 ![Screenshot4](/img/Check_pass.png "All checks passed")
