@@ -26,6 +26,13 @@ GitHub repository: <a href="https://github.com/dimikara/Memory-Game" target="_bl
 
 ___
 
+* **Project 4:** <a href="https://dimikara.github.io/Arcade-Game/" target="_blank">Arcade Game</a>
+
+GitHub repository: <a href="https://github.com/dimikara/Arcade-Game" target="_blank">https://github.com/dimikara/Memory-Game</a>
+
+![Screenshot5](/img/ArcadeGameScreenshot.png "Screenshot of the game")
+
+___
 
 * **Project 5:** Feed Reader Testing
 
@@ -33,6 +40,6 @@ An exercise on writing tests with Jasmine framework.
 
 GitHub repository: <a href="https://github.com/dimikara/frontend-nanodegree-feedreader" target="_blank">https://github.com/dimikara/frontend-nanodegree-feedreader</a>
 
-![Screenshot4](/img/Check_pass.png "All checks passed")
+![Screenshot6](/img/Check_pass.png "All checks passed")
 
 ___
