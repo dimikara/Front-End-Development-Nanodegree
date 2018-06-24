@@ -43,3 +43,20 @@ GitHub repository: <a href="https://github.com/dimikara/frontend-nanodegree-feed
 ![Screenshot6](/img/Check_pass.png "All checks passed")
 
 ___
+
+* **Project 6:**  Restaurant Reviews App — Stage 1
+
+To be added
+
+___
+
+* **Project 7:** MyReads: A Book Tracking App
+
+To be added
+___
+
+* **Project 8:** Neighborhood Map (React)
+
+To be added
+___
+
