@@ -30,7 +30,7 @@ ___
 
 GitHub repository: <a href="https://github.com/dimikara/Arcade-Game" target="_blank">https://github.com/dimikara/Arcade-Game</a>
 
-![Screenshot5](/img/ArcadeGameScreenshot.png "Screenshot of the game")
+![Screenshot5](/img/Screenshot2.png "Screenshot of the game")
 
 ___
 
