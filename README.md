@@ -1,5 +1,5 @@
 # Front-End Development Nanodegree (Udacity, 2018)
-A repository for the projects that I have done/will do during my Udacity Front-End Development Nanodegree (full Google Scholarship 2018).
+A repository for the projects that I have done/will do during my Udacity **Front-End Development Nanodegree** (full **Google Scholarship 2018**).
 
 * **Project 1:** <a href="https://codepen.io/dimitraK/full/rprEzy/" target="_blank">Animal Trade Card</a>
 
@@ -46,7 +46,7 @@ ___
 
 * **Project 6:**  Restaurant Reviews App — Stage 1
 
-To be added
+GitHub repository: <a href="https://github.com/dimikara/Restaurant-Reviews-App-Stage-1" target="_blank">https://github.com/dimikara/Restaurant-Reviews-App-Stage-1</a>
 
 ___
 
