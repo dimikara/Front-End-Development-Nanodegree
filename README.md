@@ -46,7 +46,11 @@ ___
 
 * **Project 6:**  Restaurant Reviews App — Stage 1
 
+How a static webpage is converted to a mobile-ready & accessible web application, that can work offline with the help of a Service Worker.
+
 GitHub repository: <a href="https://github.com/dimikara/Restaurant-Reviews-App-Stage-1" target="_blank">https://github.com/dimikara/Restaurant-Reviews-App-Stage-1</a>
+
+![Screenshot6](/img/RestaurantReviewsScreenshot.PNG "A Screenshot of Restaurant Reviews App")
 
 ___
 
