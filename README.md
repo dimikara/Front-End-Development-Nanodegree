@@ -59,7 +59,7 @@ GitHub repository: <a href="https://github.com/dimikara/frontend-nanodegree-feed
 
 ___
 
-## **Project 6:**  **Restaurant Reviews App**
+## **Project 6:**  <a href="https://dimikara.github.io/Restaurant-Reviews-App-Stage-1/" target="_blank">**Restaurant Reviews App**</a>
 
 How a static webpage is converted to a **mobile-ready** & **accessible** web application, that can work **offline** with the help of a **Service Worker**.
 
