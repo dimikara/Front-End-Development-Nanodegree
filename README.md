@@ -71,7 +71,12 @@ ___
 
 ## **Project 7:** **MyReads: A Book Tracking App (React)**
 
-To be added
+A **bookshelf app** that allows the user to select and categorize books they have read, are currently reading, or want to read. The project emphasizes **using React** to build the application and provides an API server and client library that I used to persist information as the user interacts with the application.
+
+GitHub repository: <a href="https://github.com/dimikara/react-my-reads" target="_blank">https://github.com/dimikara/react-my-reads</a>
+
+![Screenshot8](./img/Screenshot8.PNG "A Screenshot of MyReads App")
+
 ___
 
 ## **Project 8:** **Neighborhood Map (React)**
