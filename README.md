@@ -81,6 +81,10 @@ ___
 
 ## **Project 8:** **Neighborhood Map (React)**
 
-To be added
+A Neighborhood Map single-page app made with **React**, with use of **Google Maps API** & Foursquare **Places API**.
+
+GitHub repository: <a href="https://github.com/dimikara/React-Neighborhood-Map-3" target="_blank">https://github.com/dimikara/React-Neighborhood-Map-3</a>
+
+![Screenshot9](./img/Screenshot9.PNG "") --> To be added
 ___
 
