@@ -1,6 +1,8 @@
 # **Front-End Development Nanodegree (Udacity, 2018)**
 
-A repository for the projects that I have done/will do during my Udacity **Front-End Development Nanodegree** (full **Google Scholarship 2018**).
+A repository for the projects that I have done during my Udacity <a href="https://confirm.udacity.com/UCSSSCGG" target="_blank">**Front-End Development Nanodegree**</a> (full **6-month Scholarship by Google, 2018**).
+
+Click <a href="syllabus-front-end-web-developer-nd-v7.0.pdf" target="_blank">here</a> for a detailed description of the program.
 
 ___
 
