@@ -1,3 +1,5 @@
+![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)
+
 # **Front-End Development Nanodegree (Udacity, 2018)**
 
 A repository for the projects that I have done during my Udacity <a href="https://confirm.udacity.com/UCSSSCGG" target="_blank">**Front-End Development Nanodegree**</a> (full **6-month Scholarship by Google, 2018**).
